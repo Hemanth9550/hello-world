@@ -1,2 +1,4 @@
 # hello-world
-just repository
+
+this is hemanth!i like c,c++,java,jscript,python,R,html,rasberry-pi.
+
